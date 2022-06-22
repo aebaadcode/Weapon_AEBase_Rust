@@ -1,0 +1,1 @@
+datablock DebrisData(Rust_RifleShellDebris : AERifleShellDebris) { shapeFile = "./Debris/akshell.dts"; };
